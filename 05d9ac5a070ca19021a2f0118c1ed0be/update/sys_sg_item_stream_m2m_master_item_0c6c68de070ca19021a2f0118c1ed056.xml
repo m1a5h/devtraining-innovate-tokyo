@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Innovate Item Stream">406c68de070ca19021a2f0118c1ed055</item_stream>
+        <master_item display_value="Innovate master_item">406c68de070ca19021a2f0118c1ed056</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 15:05:35</sys_created_on>
+        <sys_id>0c6c68de070ca19021a2f0118c1ed056</sys_id>
+        <sys_name/>
+        <sys_package display_value="Innovate" source="x_649573_innovate">05d9ac5a070ca19021a2f0118c1ed0be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">05d9ac5a070ca19021a2f0118c1ed0be</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_0c6c68de070ca19021a2f0118c1ed056</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

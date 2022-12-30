@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Innovate">f35ce816070ca19021a2f0118c1ed00c</applet_launcher>
+        <icon display_value="Home Innovate">f75ce816070ca19021a2f0118c1ed00d</icon>
+        <label>Innovate</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 15:05:34</sys_created_on>
+        <sys_id>b75ce816070ca19021a2f0118c1ed00d</sys_id>
+        <sys_name>Innovate</sys_name>
+        <sys_package display_value="Innovate" source="x_649573_innovate">05d9ac5a070ca19021a2f0118c1ed0be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">05d9ac5a070ca19021a2f0118c1ed0be</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_b75ce816070ca19021a2f0118c1ed00d</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>
